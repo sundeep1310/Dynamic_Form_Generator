@@ -2,7 +2,7 @@
 
 A powerful React application that generates dynamic forms from JSON schemas in real-time. Built with TypeScript, React Hook Form, and Tailwind CSS, this application offers a split-screen interface featuring a JSON editor and live form preview.
 
-![Dynamic Form Generator]
+![Dynamic Form Generator](screenshot.png)
 
 ## Features
 
